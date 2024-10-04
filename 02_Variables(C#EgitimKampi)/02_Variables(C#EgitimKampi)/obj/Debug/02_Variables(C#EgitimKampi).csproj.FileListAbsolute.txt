@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\02_Variables(C#EgitimKampi)\02_Variables(C#EgitimKampi)\obj\Debug\02_Variables(C#EgitimKampi).csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\02_Variables(C#EgitimKampi)\02_Variables(C#EgitimKampi)\obj\Debug\02_Variables(C#EgitimKampi).csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\02_Variables(C#EgitimKampi)\02_Variables(C#EgitimKampi)\bin\Debug\02_Variables(C#EgitimKampi).exe.config
+C:\Users\LENOVO\source\repos\02_Variables(C#EgitimKampi)\02_Variables(C#EgitimKampi)\bin\Debug\02_Variables(C#EgitimKampi).exe
+C:\Users\LENOVO\source\repos\02_Variables(C#EgitimKampi)\02_Variables(C#EgitimKampi)\bin\Debug\02_Variables(C#EgitimKampi).pdb
+C:\Users\LENOVO\source\repos\02_Variables(C#EgitimKampi)\02_Variables(C#EgitimKampi)\obj\Debug\02_Variables(C#EgitimKampi).exe
+C:\Users\LENOVO\source\repos\02_Variables(C#EgitimKampi)\02_Variables(C#EgitimKampi)\obj\Debug\02_Variables(C#EgitimKampi).pdb
